@@ -195,6 +195,4 @@ while jogo == 's':
         pedirdica=input('deseja usar a sua dica?').lower()
         if pedirdica == 's':
             print(dica)
-            
-# quero um 10 em cris
-# foi um prazer ter aula com voce pode ter certeza que todos aqui aprendemos muito nesse termo com voce!!
+print('OBRIGADO POR JOGAR')
